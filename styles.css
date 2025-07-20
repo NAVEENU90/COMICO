@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: #ffffbe;
+}
+.logo {
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.nav-links{
+font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.hero-heading {
+    width: 740px;
+    margin-top: 0;
+}
+
+.superimage {
+    width: 100%;
+    max-width: 1100px;
+    margin-top: 0;
+}
+
+#home{
+    background-color: #ffffbe;
+}
+#feature{
+    background-color: #f9f9d9;
+}
+.mainhead{
+    font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.imageposter{
+    width: 400px;
+}
